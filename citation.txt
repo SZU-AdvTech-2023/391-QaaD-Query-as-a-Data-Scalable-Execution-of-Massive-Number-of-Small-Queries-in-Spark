@@ -1,0 +1,9 @@
+@article{REPO391,
+    author = "Park, Yeonsu and Tak, Byungchul and Han, Wook-Shin",
+    journal = "Proceedings of the ACM on Management of Data",
+    number = "2",
+    pages = "1--26",
+    title = "{QaaD (Query-as-a-Data): Scalable Execution of Massive Number of Small Queries in Spark}",
+    volume = "1",
+    year = "2023"
+}
